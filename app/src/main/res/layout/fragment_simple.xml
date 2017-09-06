@@ -16,11 +16,4 @@
         android:src="@drawable/picture_goku"
         android:transitionName="@string/simple_fragment_transition" />
 
-    <Button
-        android:id="@+id/fragment_a_btn"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="teletransporte"
-        />
-
 </LinearLayout>
